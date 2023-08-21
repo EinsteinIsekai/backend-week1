@@ -217,3 +217,6 @@ flake8 ./src --statistics --show-source --count
 ## Apoya al proyecto
 
 Puedes apoyar al proyecto a través de ❤️️ [GitHub](https://github.com/sponsors/trekhleb) o ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+
+
+gud bye
